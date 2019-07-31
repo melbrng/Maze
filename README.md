@@ -24,5 +24,8 @@ Navigate a maze and collect crystals using Google Cardboard VR Headset.
 ## Sounds
 - Crystal Tinkle https://freesound.org/people/stijn/sounds/43663/
 
+## Screenshots
+
+![Screenshot](MelissaBoringAMaze1.PNG)
 
 
