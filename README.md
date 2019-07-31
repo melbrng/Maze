@@ -25,7 +25,20 @@ Navigate a maze and collect crystals using Google Cardboard VR Headset.
 - Crystal Tinkle https://freesound.org/people/stijn/sounds/43663/
 
 ## Screenshots
-
+- Entering the maze
 ![Screenshot](MelissaBoringAMaze1.PNG)
+
+- Collect a crystal
+![Screenshot](MelissaBoringAMaze6.PNG)
+
+![Screenshot](MelissaBoringAMaze5.PNG)
+
+- Collect the key in order to exit the maze
+![Screenshot](MelissaBoringAMaze4.PNG)
+
+- Troll celebrates your success!
+![Screenshot](MelissaBoringAMaze3.PNG)
+
+![Screenshot](MelissaBoringAMaze2.PNG)
 
 
