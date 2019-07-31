@@ -33,7 +33,7 @@ Navigate a maze and collect crystals using Google Cardboard VR Headset.
 
 ![Screenshot](MelissaBoringAMaze5.PNG)
 
-- Collect the key in order to exit the maze
+- Collect the key in order to exit the maze. Waypoints glow red to illustrate the path you have taken so far.
 ![Screenshot](MelissaBoringAMaze4.PNG)
 
 - Troll celebrates your success!
