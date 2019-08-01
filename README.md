@@ -1,7 +1,8 @@
 
 # A Maze  Project
 
-Navigate a maze and collect crystals using Google Cardboard VR Headset.
+Virtual Reality project using Unity and Google Cardboard VR Headset.
+Locate a key to exit the maze and collect objects along the way!
 
 ---
 > This project took me about 50 hours to complete. I explored the Unity Asset store for freebies. One great takeaway from this project was learning how to incorporated 3rd party animated assets into my project and becoming more familiar with the animation controller.
